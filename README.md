@@ -1,4 +1,4 @@
-# Smart_Subscription_Tracker
+# Smart-Subscription-Tracker-Python
 A data-driven project that predicts subscription churn and estimates monthly spending using machine learning. Includes user segmentation and a Flask-based web tool for actionable insights into subscription management.
 
 **Group Members:**  
